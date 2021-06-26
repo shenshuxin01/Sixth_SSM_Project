@@ -1,1 +1,4 @@
-/src/main/java/ssx/service/ServiceE.java
+/target/
+/.idea
+/*.iml
+
